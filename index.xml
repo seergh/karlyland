@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karlyland | Blog</title>
-    <link>https://seergh.github.io/karlyland/</link>
+    <link>https://karlyland.com/</link>
     <description>Recent content on Karlyland | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>id</language>
+    <language>en-us</language>
     
-	<atom:link href="https://seergh.github.io/karlyland/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karlyland.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
